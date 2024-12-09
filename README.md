@@ -33,7 +33,7 @@ This project focuses on analyzing the prime years of the legendary tennis player
    - Avoid altering the folder structure to ensure reproducibility.  
 
 3. **Power BI Dashboard:**  
-   - Open `players_dashboard.pbix` with [Power BI Desktop](https://www.microsoft.com/en-us/download/details.aspx?id=58494).  
+   - Open `dashboard.pptx` file .  
    - Interact with the dashboard to explore visual insights.  
 
 ## Acknowledgments  
