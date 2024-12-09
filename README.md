@@ -1,7 +1,7 @@
 # ATP_Tour_Stats_Dashboard 🎾
 
 ## Overview  
-This project focuses on analyzing the prime years of the legendary tennis players Roger Federer, Novak Djokovic, and Rafael Nadal (The Big 3). The analysis compares their performances during their respective peak years to determine who had the best performance in their prime. Python is used for Web Scrapping, Excel for data analysis and Power BI is employed for visualizing key insights.  
+This project focuses on analyzing the prime years of the legendary tennis players Roger Federer, Novak Djokovic, and Rafael Nadal (The Big 3). The analysis compares their performances during their respective peak years to determine who had the best performance in their prime. Python is used for scrapping and transforming the data, Excel for data analysis and Power BI is employed for visualizing key insights.  
 
 ## Project Structure  
 
@@ -15,7 +15,8 @@ This project focuses on analyzing the prime years of the legendary tennis player
   - Resources such as charts, player images, or supplementary files used in presentations or dashboards.  
 
 - **Power BI Dashboard:**  
-  - `players_dashboard.pbix`: An interactive Power BI dashboard visualizing comparative performance metrics like win percentages, titles, and match statistics.  
+  - `players_dashboard.pbix`: An interactive Power BI dashboard visualizing comparative performance metrics like win percentages, titles, and match statistics.
+  - `dashboard.pptx`: A PowerPoint presentation to interact directly with the dashboard made in Power BI
 
 ## Objectives  
 - 🏆 **Prime Era Identification:** Analyze the data to pinpoint each player's peak years (e.g., Federer’s 2005-2006, Nadal’s 2010-2013, Djokovic’s 2011-2015).  
