@@ -45,8 +45,9 @@ This project focuses on analyzing the prime years of the legendary tennis player
   - [Rafael Nadal Career Statistics](https://en.wikipedia.org/wiki/Rafael_Nadal_career_statistics)
 
 - **Tools:**  
-  - Python: Pandas, NumPy, Seaborn, Matplotlib for statistical analysis.  
+  - Python: Pandas and BeutifulSoup for Web Scrapping and Data Transformation.  
   - Power BI: For creating a user-friendly interactive dashboard.
+  - Excel for Data Analysis
  
 ## Preview
 https://github.com/user-attachments/assets/e63d0720-169f-4537-9d1a-69b68f43a17b
