@@ -18,7 +18,7 @@ This project focuses on analyzing the prime years of the legendary tennis player
   - `players_dashboard.pbix`: An interactive Power BI dashboard visualizing comparative performance metrics like win percentages, titles, and match statistics.  
 
 ## Objectives  
-- 🏆 **Prime Era Identification:** Analyze the data to pinpoint each player's peak years (e.g., Federer’s 2004-2007, Nadal’s 2008-2010, Djokovic’s 2011-2015).  
+- 🏆 **Prime Era Identification:** Analyze the data to pinpoint each player's peak years (e.g., Federer’s 2005-2006, Nadal’s 2010-2013, Djokovic’s 2011-2015).  
 - 📊 **Performance Metrics Comparison:** Compare metrics like win rates, titles won, and dominance against top 10 opponents.  
 - 🎯 **Visual Insights:** Provide compelling visualizations to help identify trends and key differences.  
 
@@ -45,6 +45,11 @@ This project focuses on analyzing the prime years of the legendary tennis player
 
 - **Tools:**  
   - Python: Pandas, NumPy, Seaborn, Matplotlib for statistical analysis.  
-  - Power BI: For creating a user-friendly interactive dashboard.  
+  - Power BI: For creating a user-friendly interactive dashboard.
+ 
+## Preview
+https://github.com/user-attachments/assets/e63d0720-169f-4537-9d1a-69b68f43a17b
+
+
 
 
