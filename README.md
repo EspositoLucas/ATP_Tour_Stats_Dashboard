@@ -19,7 +19,7 @@ This project focuses on analyzing the prime years of the legendary tennis player
   - `dashboard.pptx`: A PowerPoint presentation to interact directly with the dashboard made in Power BI
 
 ## Objectives  
-- 🏆 **Prime Era Identification:** Analyze the data to pinpoint each player's peak years (e.g., Federer’s 2005-2006, Nadal’s 2010-2013, Djokovic’s 2011-2015).  
+- 🏆 **Prime Era Identification:** Analyze the data to pinpoint each player's peak years (Federer’s 2005-2006, Nadal’s 2010-2013, Djokovic’s 2011-2015).  
 - 📊 **Performance Metrics Comparison:** Compare metrics like win rates, titles won, and wins over different surfaces.  
 - 🎯 **Visual Insights:** Provide compelling visualizations to help identify trends and key differences.  
 
