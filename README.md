@@ -1,4 +1,4 @@
-# The Big 3 ATP Tour Stats Dashboard 🎾
+# Big Three ATP Tour Stats Dashboard 🎾
 
 ## Overview  
 This project focuses on analyzing the prime years of the legendary tennis players Roger Federer, Novak Djokovic, and Rafael Nadal (The Big 3). The analysis compares their performances during their respective peak years to determine who had the best performance in their prime. Python is used for scrapping and transforming the data, Excel for data analysis and Power BI is employed for visualizing key insights.  
